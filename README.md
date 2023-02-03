@@ -1,5 +1,5 @@
 # AiRevolution
-A collection of AI tools 
+A collection of AI tools to help ease your life and business.
 
 ## [Krisp.ai](https://krisp.ai)
 Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.
